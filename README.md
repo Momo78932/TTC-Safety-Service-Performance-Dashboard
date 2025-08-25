@@ -1,19 +1,11 @@
 # Table of Contents
 
 - [Introduction](#introduction)
-  - [Dashboard Value](#dashboard-value)
-  - [Objective](#objective)
 - [Key Business Questions](#key-business-questions)
 - [Key Findings](#key-findings)
-  - [Other Key Findings](#other-key-findings)
 - [Data Source](#data-source)
-  - [Crime Data](#crime-data)
-  - [Delay Data](#delay-data)
 - [Technologies Used](#technologies-used)
 - [Methodology](#methodology)
-  - [Data Cleaning](#data-cleaning)
-  - [Data Merge](#data-merge)
-  - [Analysis Approach](#analysis-approach)
 - [Dashboard Design](#dashboard-design)
 
 # Introduction
