@@ -1,3 +1,6 @@
+
+![Dashboard Preview](image/dashboard_screenshot.png)
+
 # Table of Contents
 
 - [Introduction](#introduction)
@@ -43,6 +46,7 @@ The objective of this project is to provide a **data-driven perspective** on how
 | When do incidents spike by hour of day?         | Hourly Trend of Crimes vs. Delays               |
 | When do incidents spike by day of week?         | Weekly Pattern of Crimes vs. Delays             |
 | Do crime hotspots align with service issues?    | - Crime–Delay Correlation <br> - % Overlap (Crime vs. Delay) |
+
 
 # Key Findings
 
