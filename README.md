@@ -1,4 +1,20 @@
-# TTC-Safety-Service-Performance-Dashboard
+# Table of Contents
+
+- [Introduction](#introduction)
+  - [Dashboard Value](#dashboard-value)
+  - [Objective](#objective)
+- [Key Business Questions](#key-business-questions)
+- [Key Findings](#key-findings)
+  - [Other Key Findings](#other-key-findings)
+- [Data Source](#data-source)
+  - [Crime Data](#crime-data)
+  - [Delay Data](#delay-data)
+- [Technologies Used](#technologies-used)
+- [Methodology](#methodology)
+  - [Data Cleaning](#data-cleaning)
+  - [Data Merge](#data-merge)
+  - [Analysis Approach](#analysis-approach)
+- [Dashboard Design](#dashboard-design)
 
 # Introduction
 
@@ -87,6 +103,16 @@ The objective of this project is to provide a **data-driven perspective** on how
 | Bus              | TTC Bus Delay Data since 2025.csv     | [Link](https://ckan0.cf.opendata.inter.prod-toronto.ca/en/dataset/ttc-bus-delay-data/resource/c3451ac9-c04a-4645-bd80-0e2a3b7d7199) |
 | Streetcar        | TTC Streetcar Delay Data since 2025.csv | [Link](https://ckan0.cf.opendata.inter.prod-toronto.ca/id/dataset/ttc-streetcar-delay-data/resource/7d545629-745c-4fbf-a348-76692bb2772d?view_id=25ff42c4-ab58-4760-8355-7afb45c42e02) |
 | Subway           | TTC Subway Delay Data since 2025.csv  | [Link](https://ckan0.cf.opendata.inter.prod-toronto.ca/dataset/ttc-subway-delay-data/resource/6088e14f-e46e-4f5c-9daa-dea1359ad396) |
+
+# Technologies Used
+
+| **Technology**        | **Purpose**                                      |
+|------------------------|--------------------------------------------------|
+| `CSV`                    | Raw data storage and integration format          |
+| `Python (GeoPandas, Pandas)` | Data preprocessing, and geospatial analysis |
+| `Power Query`            | Data transformation and cleaning                 |
+| `Power BI`               | Dashboard design, data modeling, and visualization |
+| `DAX (Power BI)`         | Calculated measures and KPIs                     |
 
 
 # Methodology
