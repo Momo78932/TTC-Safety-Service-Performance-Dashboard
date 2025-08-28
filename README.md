@@ -123,7 +123,6 @@ The objective of this project is to provide a **data-driven perspective** on how
 ### Data Merge
 - Appended all crime datasets into one table  
 - Appended all delay datasets into one table  
-- Joined the two on temporal keys (**Day of Week, Hour of Day**)  
 - Connected **Crime Data (OCC_DOW, OCC_HOD)** with **Delay Data (DOW, Hour)**  
 - Mapped crime neighbourhoods and TTC stations into comparable geographies for hotspot analysis  
 - Configured relationships between datasets in Power BI for consistent aggregation  
